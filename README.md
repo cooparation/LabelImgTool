@@ -142,6 +142,7 @@ open File   -->ChangedDefaultSavedAnnotationDir(ctrl+r) to set the folder to sav
 17-08-14  add class label function
 
 ### Todo list
+* support instance segmentation(two steps, bbox label and fg segmentation)
 * support pyqt5 and python 3
 * add more functions while adding parsing labels
 * refine the setting functions
